@@ -1,24 +1,29 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+//importing test image
+import placeholder from "./images/placeholder.jpg"
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <div className="Header">
+        <h1>Yusuf Keraan</h1>
+        <p>lorem ipsum why are you not auto completing?</p>
+      </div>
+      <div className="first-grid">
+        <div className="grid-item">
+          <img className="image" src={placeholder}/>
+        </div>
+        <div className="grid-item">
+          <img className="image" src={placeholder}/>  
+        </div>
+        <div className="grid-item">
+          <img className="image" src={placeholder}/>
+        </div>
+        <div className="grid-item"></div>
+        <div className="grid-item"></div>
+        <div className="grid-item"></div>
+      </div>
     </div>
   );
 }
