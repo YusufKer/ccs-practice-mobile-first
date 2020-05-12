@@ -1,0 +1,88 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:REQUEST
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:South Africa Standard Time
+BEGIN:STANDARD
+DTSTART:16010101T000000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0200
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+ATTENDEE;CN="Christopher Marais";RSVP=TRUE:mailto:christopher.marais@creati
+	vespark.co.za
+ATTENDEE;CN=yus.ker1994@gmail.com;RSVP=TRUE:mailto:yus.ker1994@gmail.com
+CLASS:PUBLIC
+CREATED:20200508T103406Z
+DESCRIPTION:Ryan Geel is inviting you to a scheduled Zoom meeting.\n\n \n\n
+	Topic: Interview Creative Spark - Yusuf Keeran\n\nTime: May 8\, 2020 03:00
+	 PM Johannesburg\n\n \n\nJoin Zoom Meeting\n\nhttps://us04web.zoom.us/j/75
+	537514785?pwd=MFFxdEtkalo3aStqRkt6TElWNGJRUT09\n\n \n\nMeeting ID: 755 375
+	1 4785\n\nPassword: 9ZLp4X\n\n
+DTEND;TZID="South Africa Standard Time":20200511T153000
+DTSTAMP:20200508T103406Z
+DTSTART;TZID="South Africa Standard Time":20200511T150000
+LAST-MODIFIED:20200508T103406Z
+LOCATION:Zoom Session
+ORGANIZER;CN="Ryan Geel":mailto:Ryan@lifechoices.co.za
+PRIORITY:5
+SEQUENCE:1
+SUMMARY;LANGUAGE=en-za:Interview Session - Yusuf Keeran
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000020EE9E285624D601000000000000000
+	010000000705E63A4C17100418E59F014D7E5533B
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Co
+	ntent-Type content="text/html\; charset=us-ascii"><meta name=Generator con
+	tent="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Definition
+	s */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 5 4 6 
+	3 2 4\;}\n@font-face\n	{font-family:Calibri\;\n	panose-1:2 15 5 2 2 2 4 3 
+	2 4\;}\n/* Style Definitions */\np.MsoNormal\, li.MsoNormal\, div.MsoNorma
+	l\n	{margin:0cm\;\n	margin-bottom:.0001pt\;\n	font-size:11.0pt\;\n	font-fa
+	mily:"Calibri"\,sans-serif\;\n	mso-fareast-language:EN-US\;}\na:link\, spa
+	n.MsoHyperlink\n	{mso-style-priority:99\;\n	color:#0563C1\;\n	text-decorat
+	ion:underline\;}\na:visited\, span.MsoHyperlinkFollowed\n	{mso-style-prior
+	ity:99\;\n	color:#954F72\;\n	text-decoration:underline\;}\np.msonormal0\, 
+	li.msonormal0\, div.msonormal0\n	{mso-style-name:msonormal\;\n	mso-margin-
+	top-alt:auto\;\n	margin-right:0cm\;\n	mso-margin-bottom-alt:auto\;\n	margi
+	n-left:0cm\;\n	font-size:12.0pt\;\n	font-family:"Times New Roman"\,serif\;
+	}\nspan.EmailStyle18\n	{mso-style-type:personal-compose\;\n	font-family:"C
+	alibri"\,sans-serif\;\n	color:windowtext\;}\n.MsoChpDefault\n	{mso-style-t
+	ype:export-only\;\n	font-size:10.0pt\;\n	font-family:"Calibri"\,sans-serif
+	\;\n	mso-fareast-language:EN-US\;}\n@page WordSection1\n	{size:612.0pt 792
+	.0pt\;\n	margin:72.0pt 72.0pt 72.0pt 72.0pt\;}\ndiv.WordSection1\n	{page:W
+	ordSection1\;}\n--></style><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ex
+	t="edit" spidmax="1026" />\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o
+	:shapelayout v:ext="edit">\n<o:idmap v:ext="edit" data="1" />\n</o:shapela
+	yout></xml><![endif]--></head><body lang=EN-ZA link="#0563C1" vlink="#954F
+	72"><div class=WordSection1><p class=MsoNormal>Ryan Geel is inviting you t
+	o a scheduled Zoom meeting.<o:p></o:p></p><p class=MsoNormal><o:p>&nbsp\;<
+	/o:p></p><p class=MsoNormal>Topic: Interview Creative Spark - Yusuf Keeran
+	<o:p></o:p></p><p class=MsoNormal>Time: May 8\, 2020 03:00 PM Johannesburg
+	<o:p></o:p></p><p class=MsoNormal><o:p>&nbsp\;</o:p></p><p class=MsoNormal
+	>Join Zoom Meeting<o:p></o:p></p><p class=MsoNormal><a href="https://us04w
+	eb.zoom.us/j/75537514785?pwd=MFFxdEtkalo3aStqRkt6TElWNGJRUT09">https://us0
+	4web.zoom.us/j/75537514785?pwd=MFFxdEtkalo3aStqRkt6TElWNGJRUT09</a><o:p></
+	o:p></p><p class=MsoNormal><o:p>&nbsp\;</o:p></p><p class=MsoNormal>Meetin
+	g ID: 755 3751 4785<o:p></o:p></p><p class=MsoNormal>Password: 9ZLp4X<o:p>
+	</o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-APPTSEQTIME:20200507T075931Z
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
+
